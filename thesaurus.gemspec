@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Pete Bevin"]
   spec.email         = ["pete@petebevin.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Thesaurus full text search}
+  spec.description   = %q{Full-text thesaurus search, based on Grady Ward's Moby Project https://en.wikipedia.org/wiki/Moby_Project}
+  spec.homepage      = "http://github.com/pbevin/thesaurus"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
