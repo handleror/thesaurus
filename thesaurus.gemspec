@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Pete Bevin"]
   spec.email         = ["pete@petebevin.com"]
 
-  spec.summary       = %q{Thesaurus full text search}
+  spec.summary       = %q{Look up English words in an English thesaurus. Thesaurus included.}
   spec.description   = %q{Full-text thesaurus search, based on Grady Ward's Moby Project https://en.wikipedia.org/wiki/Moby_Project}
   spec.homepage      = "http://github.com/pbevin/thesaurus"
   spec.license       = "MIT"
